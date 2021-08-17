@@ -20,6 +20,9 @@ body{
     font-size: 2rem;
     text-transform: uppercase;
     animation: colorchange 5s infinite alternate;
+    background-color: black;
+    border-radius: 25px;
+
 
 }
 
